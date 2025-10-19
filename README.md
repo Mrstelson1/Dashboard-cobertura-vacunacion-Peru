@@ -4,8 +4,7 @@ Este dashboard interactivo fue desarrollado en **Power BI** con datos del **MINS
 Permite visualizar la cobertura de vacunación infantil por dosis, región y año, además de métricas de control de crecimiento y desarrollo.
 
 ## Contenido
-- `dashboard_vacunacion.pbix`: archivo Power BI con el dashboard completo  
-- `imagen_dashboard.png`: vista previa del dashboard  
+- `Dashboard_IN.pbix`: archivo Power BI con el dashboard completo  
 - `README.md`: descripción del proyecto  
 
 ## Tecnologías y herramientas
